@@ -11,6 +11,7 @@ pip install PyMuPDF
 ```
 
 Usage: `python redact.py -i path/to/original.pdf`
+
 The output will be generated under `path/to/original_redacted.pdf`.
 
 
